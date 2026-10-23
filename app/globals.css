@@ -14,3 +14,8 @@ body{overflow-x:clip}
 @media(max-width:1100px){.product-hero{width:750px}}
 @media(max-width:850px){.product-hero{width:700px}}
 @media(max-width:600px){.product-hero{width:700px}}
+
+/* Transparent brand cutouts. */
+.schools-logo{width:180px;height:66px;background-size:contain;background-position:center;background-repeat:no-repeat;mix-blend-mode:normal}
+.schools-logo.small{width:180px;height:66px;transform:scale(.55);transform-origin:left center;margin-right:-81px}
+.lyriq-logo{width:185px;height:40px;background-size:contain;background-position:center;background-repeat:no-repeat;mix-blend-mode:normal}
