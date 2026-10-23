@@ -31,3 +31,7 @@ O símbolo mostrado é um espaço reservado com a letra S e borda tracejada. Sub
 - IA educacional com controle de acesso e revisão humana.
 
 Nenhuma tela ilustrativa nesta landing page deve ser interpretada como módulo interno já disponível.
+
+## Teste local no Windows
+
+Baixe o repositório como ZIP, extraia e execute `INICIAR-SCHOOLS.cmd`. Consulte [TESTAR-LOCALMENTE.md](TESTAR-LOCALMENTE.md) para instruções e limitações.
