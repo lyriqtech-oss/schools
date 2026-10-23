@@ -35,3 +35,7 @@ Nenhuma tela ilustrativa nesta landing page deve ser interpretada como módulo i
 ## Teste local no Windows
 
 Baixe o repositório como ZIP, extraia e execute `INICIAR-SCHOOLS.cmd`. Consulte [TESTAR-LOCALMENTE.md](TESTAR-LOCALMENTE.md) para instruções e limitações.
+
+## Identidade visual
+
+A landing page usa as duas artes de marca fornecidas pelo projeto em `public/brand-*.webp`. A prévia online no Sites é uma versão estática do mesmo design; o formulário comercial permanece dependente da configuração de Supabase no aplicativo Next.js.
