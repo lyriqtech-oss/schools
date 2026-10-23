@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function Terms(){return <main style={{maxWidth:760,margin:'70px auto',padding:'0 24px'}}><Link href="/">← Voltar ao Schools</Link><h1 style={{marginTop:45}}>Termos de uso</h1><p>Esta página apresenta o Schools by Lyriq em desenvolvimento. As prévias de interface, conversas de IA e dados exibidos são ilustrativos. O envio do formulário constitui uma solicitação de contato e não cria uma conta nem uma contratação.</p><p>Os termos completos da plataforma serão publicados antes da disponibilização do serviço.</p></main>}
